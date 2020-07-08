@@ -5,3 +5,4 @@
 
 ## Completed the assignment for Module 2
 * Figure out how to publish to provide access
+* [Liu's Most Excellent Chinese Food](.../site/module2_solution/index.html)
